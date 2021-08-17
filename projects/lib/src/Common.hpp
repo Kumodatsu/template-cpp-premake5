@@ -1,0 +1,27 @@
+#pragma once
+
+#include <iostream>
+#include <sstream>
+#include <fstream>
+#include <filesystem>
+#include <thread>
+#include <utility>
+#include <algorithm>
+#include <functional>
+#include <string>
+#include <array>
+#include <vector>
+#include <unordered_map>
+#include <unordered_set>
+#include <cstdint>
+#include <cstddef>
+#include <type_traits>
+#include <exception>
+#include <optional>
+#include <variant>
+#include <random>
+#include <chrono>
+#include <memory>
+#include <new>
+#include <cstdlib>
+#include <malloc.h>
