@@ -77,7 +77,7 @@ they aren't already, since they can just be regenerated using the Premake
 scripts.
 * Make sure to replace this README's contents with something relevant to your
 own project!
-* Also consider adding a license if you intend on publicize your work.
+* Also consider adding a license if you intend to publicize your work.
 Licenses are useful.
 
 That's about it.
